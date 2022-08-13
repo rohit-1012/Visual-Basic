@@ -1,0 +1,8 @@
+C:\Users\User\documents\visual studio 2010\Projects\Math_Operators_Test\Math_Operators_Test\bin\Debug\Math_Operators_Test.exe
+C:\Users\User\documents\visual studio 2010\Projects\Math_Operators_Test\Math_Operators_Test\bin\Debug\Math_Operators_Test.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Math_Operators_Test\Math_Operators_Test\bin\Debug\Math_Operators_Test.xml
+C:\Users\User\documents\visual studio 2010\Projects\Math_Operators_Test\Math_Operators_Test\obj\x86\Debug\Math_Operators_Test.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\Math_Operators_Test\Math_Operators_Test\obj\x86\Debug\Math_Operators_Test.vbproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2010\Projects\Math_Operators_Test\Math_Operators_Test\obj\x86\Debug\Math_Operators_Test.exe
+C:\Users\User\documents\visual studio 2010\Projects\Math_Operators_Test\Math_Operators_Test\obj\x86\Debug\Math_Operators_Test.xml
+C:\Users\User\documents\visual studio 2010\Projects\Math_Operators_Test\Math_Operators_Test\obj\x86\Debug\Math_Operators_Test.pdb

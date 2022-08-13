@@ -1,0 +1,16 @@
+C:\Users\User\AppData\Local\Temporary Projects\Variable_Declaration_Test\bin\Debug\Variable_Declaration_Test.exe
+C:\Users\User\AppData\Local\Temporary Projects\Variable_Declaration_Test\bin\Debug\Variable_Declaration_Test.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Variable_Declaration_Test\bin\Debug\Variable_Declaration_Test.xml
+C:\Users\User\AppData\Local\Temporary Projects\Variable_Declaration_Test\obj\x86\Debug\Variable_Declaration_Test.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\Variable_Declaration_Test\obj\x86\Debug\Variable_Declaration_Test.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\Variable_Declaration_Test\obj\x86\Debug\Variable_Declaration_Test.exe
+C:\Users\User\AppData\Local\Temporary Projects\Variable_Declaration_Test\obj\x86\Debug\Variable_Declaration_Test.xml
+C:\Users\User\AppData\Local\Temporary Projects\Variable_Declaration_Test\obj\x86\Debug\Variable_Declaration_Test.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Variable_Declaration_Test\Variable_Declaration_Test\obj\x86\Debug\Variable_Declaration_Test.exe
+C:\Users\User\documents\visual studio 2010\Projects\Variable_Declaration_Test\Variable_Declaration_Test\obj\x86\Debug\Variable_Declaration_Test.xml
+C:\Users\User\documents\visual studio 2010\Projects\Variable_Declaration_Test\Variable_Declaration_Test\obj\x86\Debug\Variable_Declaration_Test.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Variable_Declaration_Test\Variable_Declaration_Test\bin\Debug\Variable_Declaration_Test.exe
+C:\Users\User\documents\visual studio 2010\Projects\Variable_Declaration_Test\Variable_Declaration_Test\bin\Debug\Variable_Declaration_Test.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Variable_Declaration_Test\Variable_Declaration_Test\bin\Debug\Variable_Declaration_Test.xml
+C:\Users\User\documents\visual studio 2010\Projects\Variable_Declaration_Test\Variable_Declaration_Test\obj\x86\Debug\Variable_Declaration_Test.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\Variable_Declaration_Test\Variable_Declaration_Test\obj\x86\Debug\Variable_Declaration_Test.vbproj.GenerateResource.Cache

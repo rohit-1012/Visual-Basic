@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2010\Projects\VB_Project_1\VB_Project_1\obj\x86\Debug\VB_Project_1.Form1.resources
+C:\Users\User\documents\visual studio 2010\Projects\VB_Project_1\VB_Project_1\obj\x86\Debug\VB_Project_1.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\VB_Project_1\VB_Project_1\obj\x86\Debug\VB_Project_1.vbproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2010\Projects\VB_Project_1\VB_Project_1\bin\Debug\VB_Project_1.exe
+C:\Users\User\documents\visual studio 2010\Projects\VB_Project_1\VB_Project_1\bin\Debug\VB_Project_1.pdb
+C:\Users\User\documents\visual studio 2010\Projects\VB_Project_1\VB_Project_1\bin\Debug\VB_Project_1.xml
+C:\Users\User\documents\visual studio 2010\Projects\VB_Project_1\VB_Project_1\obj\x86\Debug\VB_Project_1.exe
+C:\Users\User\documents\visual studio 2010\Projects\VB_Project_1\VB_Project_1\obj\x86\Debug\VB_Project_1.xml
+C:\Users\User\documents\visual studio 2010\Projects\VB_Project_1\VB_Project_1\obj\x86\Debug\VB_Project_1.pdb

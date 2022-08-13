@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2010\Projects\dockTest\dockTest\bin\Debug\dockTest.exe
+C:\Users\User\documents\visual studio 2010\Projects\dockTest\dockTest\bin\Debug\dockTest.pdb
+C:\Users\User\documents\visual studio 2010\Projects\dockTest\dockTest\bin\Debug\dockTest.xml
+C:\Users\User\documents\visual studio 2010\Projects\dockTest\dockTest\obj\x86\Debug\dockTest.Form1.resources
+C:\Users\User\documents\visual studio 2010\Projects\dockTest\dockTest\obj\x86\Debug\dockTest.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\dockTest\dockTest\obj\x86\Debug\dockTest.vbproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2010\Projects\dockTest\dockTest\obj\x86\Debug\dockTest.exe
+C:\Users\User\documents\visual studio 2010\Projects\dockTest\dockTest\obj\x86\Debug\dockTest.xml
+C:\Users\User\documents\visual studio 2010\Projects\dockTest\dockTest\obj\x86\Debug\dockTest.pdb

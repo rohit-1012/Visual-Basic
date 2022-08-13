@@ -1,0 +1,18 @@
+C:\Users\User\AppData\Local\Temporary Projects\buttonTagTest\bin\Debug\buttonTagTest.exe
+C:\Users\User\AppData\Local\Temporary Projects\buttonTagTest\bin\Debug\buttonTagTest.pdb
+C:\Users\User\AppData\Local\Temporary Projects\buttonTagTest\bin\Debug\buttonTagTest.xml
+C:\Users\User\AppData\Local\Temporary Projects\buttonTagTest\obj\x86\Debug\buttonTagTest.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\buttonTagTest\obj\x86\Debug\buttonTagTest.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\buttonTagTest\obj\x86\Debug\buttonTagTest.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\buttonTagTest\obj\x86\Debug\buttonTagTest.exe
+C:\Users\User\AppData\Local\Temporary Projects\buttonTagTest\obj\x86\Debug\buttonTagTest.xml
+C:\Users\User\AppData\Local\Temporary Projects\buttonTagTest\obj\x86\Debug\buttonTagTest.pdb
+C:\Users\User\documents\visual studio 2010\Projects\buttonTagTest\buttonTagTest\obj\x86\Debug\buttonTagTest.exe
+C:\Users\User\documents\visual studio 2010\Projects\buttonTagTest\buttonTagTest\obj\x86\Debug\buttonTagTest.xml
+C:\Users\User\documents\visual studio 2010\Projects\buttonTagTest\buttonTagTest\obj\x86\Debug\buttonTagTest.pdb
+C:\Users\User\documents\visual studio 2010\Projects\buttonTagTest\buttonTagTest\bin\Debug\buttonTagTest.exe
+C:\Users\User\documents\visual studio 2010\Projects\buttonTagTest\buttonTagTest\bin\Debug\buttonTagTest.pdb
+C:\Users\User\documents\visual studio 2010\Projects\buttonTagTest\buttonTagTest\bin\Debug\buttonTagTest.xml
+C:\Users\User\documents\visual studio 2010\Projects\buttonTagTest\buttonTagTest\obj\x86\Debug\buttonTagTest.Form1.resources
+C:\Users\User\documents\visual studio 2010\Projects\buttonTagTest\buttonTagTest\obj\x86\Debug\buttonTagTest.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\buttonTagTest\buttonTagTest\obj\x86\Debug\buttonTagTest.vbproj.GenerateResource.Cache
